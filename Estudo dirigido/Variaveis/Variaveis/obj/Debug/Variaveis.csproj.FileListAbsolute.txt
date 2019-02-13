@@ -1,0 +1,6 @@
+C:\Users\bruno.msouza17\Desktop\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+C:\Users\bruno.msouza17\Desktop\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+C:\Users\bruno.msouza17\Desktop\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+C:\Users\bruno.msouza17\Desktop\Variaveis\Variaveis\obj\Debug\Variaveis.csprojResolveAssemblyReference.cache
+C:\Users\bruno.msouza17\Desktop\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+C:\Users\bruno.msouza17\Desktop\Variaveis\Variaveis\obj\Debug\Variaveis.pdb
