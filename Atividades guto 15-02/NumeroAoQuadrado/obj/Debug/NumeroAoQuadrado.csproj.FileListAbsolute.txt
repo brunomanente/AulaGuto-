@@ -1,0 +1,9 @@
+C:\Users\bruno.msouza17\Desktop\Atividades guto 15-02\NumeroAoQuadrado\bin\Debug\NumeroAoQuadrado.exe.config
+C:\Users\bruno.msouza17\Desktop\Atividades guto 15-02\NumeroAoQuadrado\bin\Debug\NumeroAoQuadrado.exe
+C:\Users\bruno.msouza17\Desktop\Atividades guto 15-02\NumeroAoQuadrado\bin\Debug\NumeroAoQuadrado.pdb
+C:\Users\bruno.msouza17\Desktop\Atividades guto 15-02\NumeroAoQuadrado\obj\Debug\NumeroAoQuadrado.Form1.resources
+C:\Users\bruno.msouza17\Desktop\Atividades guto 15-02\NumeroAoQuadrado\obj\Debug\NumeroAoQuadrado.Properties.Resources.resources
+C:\Users\bruno.msouza17\Desktop\Atividades guto 15-02\NumeroAoQuadrado\obj\Debug\NumeroAoQuadrado.csproj.GenerateResource.cache
+C:\Users\bruno.msouza17\Desktop\Atividades guto 15-02\NumeroAoQuadrado\obj\Debug\NumeroAoQuadrado.csproj.CoreCompileInputs.cache
+C:\Users\bruno.msouza17\Desktop\Atividades guto 15-02\NumeroAoQuadrado\obj\Debug\NumeroAoQuadrado.exe
+C:\Users\bruno.msouza17\Desktop\Atividades guto 15-02\NumeroAoQuadrado\obj\Debug\NumeroAoQuadrado.pdb
